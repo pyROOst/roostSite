@@ -1,0 +1,11 @@
+#roo{ /*here, #roo denotes a specific id(set in index file) but if 
+    wanted to instead do all images,would just do "img{}" */
+width: 200px;
+}
+body {
+    text-align: center;
+    font-family: arial;
+    background: rgb(246, 239, 231);
+    /*background=background color, color= text color*/
+    color: rgb(146, 95, 0);
+}
